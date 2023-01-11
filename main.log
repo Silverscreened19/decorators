@@ -1,0 +1,5 @@
+name_function: hello_world, params: ((), {}), time: 2023-01-11 17:20:01.261915, result: Hello World
+name_function: summator, params: ((2, 2), {}), time: 2023-01-11 17:20:01.262142, result: 4
+name_function: div, params: ((6, 2), {}), time: 2023-01-11 17:20:01.262407, result: 3.0
+name_function: summator, params: ((4.3,), {'b': 2.2}), time: 2023-01-11 17:20:01.262517, result: 6.5
+name_function: summator, params: ((), {'a': 0, 'b': 0}), time: 2023-01-11 17:20:01.262577, result: 0

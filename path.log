@@ -1,0 +1,1 @@
+name_function: flat_generator, params: (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}), time: 2023-01-11 18:30:00.712847, result: <generator object flat_generator at 0x10130dee0>
